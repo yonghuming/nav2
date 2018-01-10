@@ -1,0 +1,15 @@
+C:\Users\langxianmeng\source\repos\nav2\bin\Debug\netcoreapp2.0\app.db
+C:\Users\langxianmeng\source\repos\nav2\bin\Debug\netcoreapp2.0\nav.deps.json
+C:\Users\langxianmeng\source\repos\nav2\bin\Debug\netcoreapp2.0\nav.runtimeconfig.json
+C:\Users\langxianmeng\source\repos\nav2\bin\Debug\netcoreapp2.0\nav.runtimeconfig.dev.json
+C:\Users\langxianmeng\source\repos\nav2\bin\Debug\netcoreapp2.0\nav.dll
+C:\Users\langxianmeng\source\repos\nav2\bin\Debug\netcoreapp2.0\nav.pdb
+C:\Users\langxianmeng\source\repos\nav2\obj\Debug\netcoreapp2.0\nav.csprojResolveAssemblyReference.cache
+C:\Users\langxianmeng\source\repos\nav2\obj\Debug\netcoreapp2.0\nav.csproj.CoreCompileInputs.cache
+C:\Users\langxianmeng\source\repos\nav2\obj\Debug\netcoreapp2.0\UserSecretsAssemblyInfo.cs
+C:\Users\langxianmeng\source\repos\nav2\obj\Debug\netcoreapp2.0\nav.AssemblyInfoInputs.cache
+C:\Users\langxianmeng\source\repos\nav2\obj\Debug\netcoreapp2.0\nav.AssemblyInfo.cs
+C:\Users\langxianmeng\source\repos\nav2\obj\Debug\netcoreapp2.0\nav.dll
+C:\Users\langxianmeng\source\repos\nav2\obj\Debug\netcoreapp2.0\nav.pdb
+C:\Users\langxianmeng\source\repos\nav2\bin\Debug\netcoreapp2.0\nav.dll.config
+C:\Users\langxianmeng\source\repos\nav2\obj\Debug\netcoreapp2.0\nav.dll.config

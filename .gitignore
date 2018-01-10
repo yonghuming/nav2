@@ -1,6 +1,1 @@
-.tools/
-bin/
-.vs/
-obj/
-obj/nav.csproj.nuget.g.props
-obj/nav.csproj.nuget.g.targets
+.vs
