@@ -8,6 +8,6 @@ namespace nav.Models
     public class Table
     {
         public int ID { get; set; }
-        public string name { get; set; }
+        public string Name { get; set; }
     }
 }
