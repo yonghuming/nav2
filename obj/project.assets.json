@@ -3621,39 +3621,6 @@
           }
         }
       },
-      "System.Data.SQLite/1.0.106": {
-        "type": "package"
-      },
-      "System.Data.SQLite.Core/1.0.106": {
-        "type": "package",
-        "compile": {
-          "lib/net46/System.Data.SQLite.dll": {}
-        },
-        "runtime": {
-          "lib/net46/System.Data.SQLite.dll": {}
-        },
-        "build": {
-          "build/net46/System.Data.SQLite.Core.targets": {}
-        }
-      },
-      "System.Data.SQLite.EF6/1.0.106": {
-        "type": "package",
-        "compile": {
-          "lib/net46/System.Data.SQLite.EF6.dll": {}
-        },
-        "runtime": {
-          "lib/net46/System.Data.SQLite.EF6.dll": {}
-        }
-      },
-      "System.Data.SQLite.x64/1.0.106": {
-        "type": "package",
-        "compile": {
-          "lib/net46/System.Data.SQLite.dll": {}
-        },
-        "runtime": {
-          "lib/net46/System.Data.SQLite.dll": {}
-        }
-      },
       "System.Diagnostics.Contracts/4.3.0": {
         "type": "package",
         "dependencies": {
@@ -9478,106 +9445,6 @@
         "version.txt"
       ]
     },
-    "System.Data.SQLite/1.0.106": {
-      "sha512": "7BLZMo2NrV01kJIEdDAgCdDs3f0DPkd1gmAjURo0ziN00q+KWWX2S5RoqTQm0LbbBUe2ycUSiiDYIIPip56+kw==",
-      "type": "package",
-      "path": "system.data.sqlite/1.0.106",
-      "files": [
-        "system.data.sqlite.1.0.106.nupkg.sha512",
-        "system.data.sqlite.nuspec"
-      ]
-    },
-    "System.Data.SQLite.Core/1.0.106": {
-      "sha512": "em8AP6Sm96brGCwP5Y1aYzzmuemqO02jfc2BrASGoafSqElOBDfIxR5UTvVgt8Ic65o1zB9hctT/zOQxMgI5TA==",
-      "type": "package",
-      "path": "system.data.sqlite.core/1.0.106",
-      "files": [
-        "build/net20/System.Data.SQLite.Core.targets",
-        "build/net20/x64/SQLite.Interop.dll",
-        "build/net20/x86/SQLite.Interop.dll",
-        "build/net40/System.Data.SQLite.Core.targets",
-        "build/net40/x64/SQLite.Interop.dll",
-        "build/net40/x86/SQLite.Interop.dll",
-        "build/net45/System.Data.SQLite.Core.targets",
-        "build/net45/x64/SQLite.Interop.dll",
-        "build/net45/x86/SQLite.Interop.dll",
-        "build/net451/System.Data.SQLite.Core.targets",
-        "build/net451/x64/SQLite.Interop.dll",
-        "build/net451/x86/SQLite.Interop.dll",
-        "build/net46/System.Data.SQLite.Core.targets",
-        "build/net46/x64/SQLite.Interop.dll",
-        "build/net46/x86/SQLite.Interop.dll",
-        "lib/net20/System.Data.SQLite.dll",
-        "lib/net20/System.Data.SQLite.dll.config",
-        "lib/net20/System.Data.SQLite.xml",
-        "lib/net40/System.Data.SQLite.dll",
-        "lib/net40/System.Data.SQLite.dll.config",
-        "lib/net40/System.Data.SQLite.xml",
-        "lib/net45/System.Data.SQLite.dll",
-        "lib/net45/System.Data.SQLite.dll.config",
-        "lib/net45/System.Data.SQLite.xml",
-        "lib/net451/System.Data.SQLite.dll",
-        "lib/net451/System.Data.SQLite.dll.config",
-        "lib/net451/System.Data.SQLite.xml",
-        "lib/net46/System.Data.SQLite.dll",
-        "lib/net46/System.Data.SQLite.dll.config",
-        "lib/net46/System.Data.SQLite.xml",
-        "system.data.sqlite.core.1.0.106.nupkg.sha512",
-        "system.data.sqlite.core.nuspec"
-      ]
-    },
-    "System.Data.SQLite.EF6/1.0.106": {
-      "sha512": "uYPnoAIsvt5YF+RN/ZRnZ/3+/OV7P8tTvJdSqYNTnY9GVbeRBDxwdSP3UjWsauRizgt4QIwxcdBkrj7VRYSSSA==",
-      "type": "package",
-      "path": "system.data.sqlite.ef6/1.0.106",
-      "files": [
-        "content/net40/app.config.install.xdt",
-        "content/net40/app.config.transform",
-        "content/net40/web.config.install.xdt",
-        "content/net40/web.config.transform",
-        "content/net45/app.config.install.xdt",
-        "content/net45/app.config.transform",
-        "content/net45/web.config.install.xdt",
-        "content/net45/web.config.transform",
-        "content/net451/app.config.install.xdt",
-        "content/net451/app.config.transform",
-        "content/net451/web.config.install.xdt",
-        "content/net451/web.config.transform",
-        "content/net46/app.config.install.xdt",
-        "content/net46/app.config.transform",
-        "content/net46/web.config.install.xdt",
-        "content/net46/web.config.transform",
-        "lib/net40/System.Data.SQLite.EF6.dll",
-        "lib/net45/System.Data.SQLite.EF6.dll",
-        "lib/net451/System.Data.SQLite.EF6.dll",
-        "lib/net46/System.Data.SQLite.EF6.dll",
-        "system.data.sqlite.ef6.1.0.106.nupkg.sha512",
-        "system.data.sqlite.ef6.nuspec",
-        "tools/net40/install.ps1",
-        "tools/net45/install.ps1",
-        "tools/net451/install.ps1",
-        "tools/net46/install.ps1"
-      ]
-    },
-    "System.Data.SQLite.x64/1.0.106": {
-      "sha512": "UeNAy/93KrPFfDimPGryoX61SldFVB78yOkzv91pG15bFkcA+SJ/oBZJgN5DvdYkw3HLXu2oefBu+9n2JZ8zQg==",
-      "type": "package",
-      "path": "system.data.sqlite.x64/1.0.106",
-      "files": [
-        "lib/net20/System.Data.SQLite.dll",
-        "lib/net20/System.Data.SQLite.xml",
-        "lib/net40/System.Data.SQLite.dll",
-        "lib/net40/System.Data.SQLite.xml",
-        "lib/net45/System.Data.SQLite.dll",
-        "lib/net45/System.Data.SQLite.xml",
-        "lib/net451/System.Data.SQLite.dll",
-        "lib/net451/System.Data.SQLite.xml",
-        "lib/net46/System.Data.SQLite.dll",
-        "lib/net46/System.Data.SQLite.xml",
-        "system.data.sqlite.x64.1.0.106.nupkg.sha512",
-        "system.data.sqlite.x64.nuspec"
-      ]
-    },
     "System.Diagnostics.Contracts/4.3.0": {
       "sha512": "eelRRbnm+OloiQvp9CXS0ixjNQldjjkHO4iIkR5XH2VIP8sUB/SIpa1TdUW6/+HDcQ+MlhP3pNa1u5SbzYuWGA==",
       "type": "package",
@@ -13728,10 +13595,6 @@
       "Microsoft.EntityFrameworkCore.Tools >= 2.0.0",
       "Microsoft.NETCore.App >= 2.0.0",
       "Microsoft.VisualStudio.Web.CodeGeneration.Design >= 2.0.0",
-      "System.Data.SQLite >= 1.0.106",
-      "System.Data.SQLite.Core >= 1.0.106",
-      "System.Data.SQLite.EF6 >= 1.0.106",
-      "System.Data.SQLite.x64 >= 1.0.106",
       "linq2db.SQLite >= 1.10.0"
     ]
   },
@@ -13802,22 +13665,6 @@
             "target": "Package",
             "version": "[2.0.0, )"
           },
-          "System.Data.SQLite": {
-            "target": "Package",
-            "version": "[1.0.106, )"
-          },
-          "System.Data.SQLite.Core": {
-            "target": "Package",
-            "version": "[1.0.106, )"
-          },
-          "System.Data.SQLite.EF6": {
-            "target": "Package",
-            "version": "[1.0.106, )"
-          },
-          "System.Data.SQLite.x64": {
-            "target": "Package",
-            "version": "[1.0.106, )"
-          },
           "linq2db.SQLite": {
             "target": "Package",
             "version": "[1.10.0, )"
@@ -13830,37 +13677,5 @@
         "warn": true
       }
     }
-  },
-  "logs": [
-    {
-      "code": "NU1701",
-      "level": "Warning",
-      "warningLevel": 1,
-      "message": "已使用“.NETFramework,Version=v4.6.1”而不是项目目标框架“.NETCoreApp,Version=v2.0”还原包“System.Data.SQLite.Core 1.0.106”。此包可能与项目不完全兼容。",
-      "libraryId": "System.Data.SQLite.Core",
-      "targetGraphs": [
-        ".NETCoreApp,Version=v2.0"
-      ]
-    },
-    {
-      "code": "NU1701",
-      "level": "Warning",
-      "warningLevel": 1,
-      "message": "已使用“.NETFramework,Version=v4.6.1”而不是项目目标框架“.NETCoreApp,Version=v2.0”还原包“System.Data.SQLite.EF6 1.0.106”。此包可能与项目不完全兼容。",
-      "libraryId": "System.Data.SQLite.EF6",
-      "targetGraphs": [
-        ".NETCoreApp,Version=v2.0"
-      ]
-    },
-    {
-      "code": "NU1701",
-      "level": "Warning",
-      "warningLevel": 1,
-      "message": "已使用“.NETFramework,Version=v4.6.1”而不是项目目标框架“.NETCoreApp,Version=v2.0”还原包“System.Data.SQLite.x64 1.0.106”。此包可能与项目不完全兼容。",
-      "libraryId": "System.Data.SQLite.x64",
-      "targetGraphs": [
-        ".NETCoreApp,Version=v2.0"
-      ]
-    }
-  ]
+  }
 }
